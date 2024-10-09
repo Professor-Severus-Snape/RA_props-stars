@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/sobiskx7nug4pllu?svg=true)](https://ci.appveyor.com/project/Professor-Severus-Snape/ra-props-stars)
+
 # Рейтинг фильмов
 
 Необходимо реализовать компонент, отображающий рейтинг фильма в виде звёзд:
